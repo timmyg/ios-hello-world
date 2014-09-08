@@ -456,6 +456,7 @@
 				2CBD4BFB19BE353000EA5978 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2CBD4BFC19BE353000EA5978 /* Build configuration list for PBXNativeTarget "marketplace-oneTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +465,7 @@
 				2CBD4BFE19BE353000EA5978 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
